@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32905
     wikipedia: http://fr.wikipedia.org/wiki/G._Bruno
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27782#Le-tour-de-la-France-par-deux-enfantsDevoir-et-Patrie
 gutenberg_bookshelf: FR Education et Enseignement
 gutenberg_issued: '2009-01-12'
 gutenberg_type: Text
