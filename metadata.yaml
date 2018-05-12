@@ -1,0 +1,36 @@
+_repo: Le-tour-de-la-France-par-deux-enfantsDevoir-et-Patrie_27782
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bruno, G.
+    aliases:
+    - Tuillerie, Augustine
+    - Fouillee, Alfred Jules Emile, Mme.
+    - Fouillée, Alfred Jules Émile, Mme.
+    - Fouillée, Alfred, Mme.
+    birthdate: 1833
+    deathdate: 1923
+    gutenberg_agent_id: '32905'
+    url: http://www.gutenberg.org/2009/agents/32905
+    wikipedia: http://fr.wikipedia.org/wiki/G._Bruno
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2009-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27782'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Readers'
+- !lcc 'PC'
+- !lcsh 'France -- Description and travel'
+title: 'Le tour de la France par deux enfants
+
+  Devoir et Patrie'
+url: http://www.gutenberg.org/ebooks/27782
